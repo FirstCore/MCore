@@ -1,0 +1,26 @@
+Determining if files pthread.h exist failed with the following output:
+Change Dir: C:/Users/Matt/Desktop/TrinityCore/Backups/Build/CMakeFiles/CMakeTmp
+
+Run Build Command:c:\PROGRA~2\MICROS~2.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec1397661096
+
+Microsoft (R) Visual Studio Version 9.0.21022.8.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ Build started: Project: cmTryCompileExec1397661096, Configuration: Debug Win32 ------
+1>Compiling...
+1>Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+1>Copyright (C) Microsoft Corporation.  All rights reserved.
+1>cl /Od /D "WIN32" /D "_WINDOWS" /D "_DEBUG" /D "CMAKE_INTDIR=\"Debug\"" /D "_MBCS" /FD /RTC1 /MDd /Fo"cmTryCompileExec1397661096.dir\Debug\\" /Fd"C:\Users\Matt\Desktop\TrinityCore\Backups\Build\CMakeFiles\CMakeTmp\Debug/cmTryCompileExec1397661096.pdb" /W3 /c /Zi /TC /wd4996 /wd4355 /wd4244 /wd4985 /wd4267 /wd4619 /wd4800 /wd4805 /wd4090   /Zm1000
+1>   .\CheckIncludeFiles.c
+1>CheckIncludeFiles.c
+1>.\CheckIncludeFiles.c(2) : fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory
+1>Build log was saved at "file://c:\Users\Matt\Desktop\TrinityCore\Backups\Build\CMakeFiles\CMakeTmp\cmTryCompileExec1397661096.dir\Debug\BuildLog.htm"
+1>cmTryCompileExec1397661096 - 1 error(s), 0 warning(s)
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
+
+Source:
+/* */
+#include <pthread.h>
+
+
+int main(){return 0;}
+

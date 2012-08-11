@@ -1,0 +1,14 @@
+C:/Users/Matt/Desktop/TrinityCore/Backups/Build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Matt/Desktop/TrinityCore/Backups/Build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Matt/Desktop/TrinityCore/Backups/Build/dep/acelite/ace/CMakeFiles/ace.dir
+C:/Users/Matt/Desktop/TrinityCore/Backups/Build/src/server/authserver/CMakeFiles/authserver.dir
+C:/Users/Matt/Desktop/TrinityCore/Backups/Build/src/server/collision/CMakeFiles/collision.dir
+C:/Users/Matt/Desktop/TrinityCore/Backups/Build/dep/g3dlite/CMakeFiles/g3dlib.dir
+C:/Users/Matt/Desktop/TrinityCore/Backups/Build/src/server/game/CMakeFiles/game.dir
+C:/Users/Matt/Desktop/TrinityCore/Backups/Build/dep/gsoap/CMakeFiles/gsoap.dir
+C:/Users/Matt/Desktop/TrinityCore/Backups/Build/dep/mysqllite/CMakeFiles/libmysql.dir
+C:/Users/Matt/Desktop/TrinityCore/Backups/Build/src/genrev/CMakeFiles/revision.h.dir
+C:/Users/Matt/Desktop/TrinityCore/Backups/Build/src/server/scripts/CMakeFiles/scripts.dir
+C:/Users/Matt/Desktop/TrinityCore/Backups/Build/src/server/shared/CMakeFiles/shared.dir
+C:/Users/Matt/Desktop/TrinityCore/Backups/Build/src/server/worldserver/CMakeFiles/worldserver.dir
+C:/Users/Matt/Desktop/TrinityCore/Backups/Build/dep/zlib/CMakeFiles/zlib.dir
